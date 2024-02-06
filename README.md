@@ -5,7 +5,7 @@ The purpose of GRAPHICS 2D AND 3D is to learn about the methods that were used t
 The next practices are present in this repository:
 <ul>
 <li>First Semester
-    <ol>
+    <ol type = "1">
     <li>Visor de imagenes</li>
     <li>Calculadora</li>
     <li>Editor de figuras</li>
@@ -23,7 +23,7 @@ The next practices are present in this repository:
     </ol>
 </li>
 <li>Second Semester
-    <ol>
+    <ol type = "1">
     <li>Metodo de inundación</li>
     <li>Metodo Scanline</li>
     <li>Metodo Bresenham</li>
@@ -47,7 +47,7 @@ The next practices are present in this repository:
     </ol>
 </li>
 <li>Third Semester
-    <ol>
+    <ol type = "1">
     <li>Dibujador</li>
     <li>Cilindro</li>
     <li>Cubo Rotando</li>
